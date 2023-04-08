@@ -1,0 +1,2 @@
+# haking
+New hacking tricks 
